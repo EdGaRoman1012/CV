@@ -577,7 +577,7 @@ progress::-moz-progress-bar {
     text-align: right;
 }
 .footer{
-    margin-bottom: var(--header-height);
+    margin-bottom: 4.3rem;
     background-color: var(--third-alpha-color);
     color: var(--white-color);
     text-align: center;
